@@ -565,14 +565,14 @@ let updatePasswordFunction = (req, res) => {
 
                     let sendEmailOptions = {
                         email: userDetails.email,
-                        subject: 'Password Updated for Soft Chat ',
+                        subject: 'Password Updated for ChatApp ',
                         html: `<h4> Hi ${userDetails.firstName}</h4>
                         <p>
                             Password updated successfully.
                         </p>
-                        <h3> Thanks for using Soft Chat </h3>
-                        Service Management Leader,Soft Chat  
-                        <br><b>Shahrukh Sayyed </b>
+                        <h3> Thanks for using ChatApp </h3>
+                        <br>Regards,
+                        <br><b>Anupriya Gola </b>
                                     `
                     }
 
@@ -629,7 +629,9 @@ let changePasswordFunction = (req, res) => {
                         logger.error('No User Found', 'userController: findUser()', 7)
                         let apiResponse = response.generate(true, 'No User Details Found', 404, null)
                         reject(apiResponse)
-                    } else {
+                    }
+                    
+                    else {
                         /* prepare the message and the api response here */
                         logger.info('User Found', 'userController: findUser()', 10)
                         resolve(userDetails)
@@ -703,9 +705,9 @@ let changePasswordFunction = (req, res) => {
                         <p>
                             Password updated successfully.
                         </p>
-                        <h3> Thanks for using Soft Chat </h3>
-                        Service Management Leader,Soft Chat  
-                        <br><b>Shahrukh Sayyed </b>
+                        <h3> Thanks for using ChatApp </h3>
+                        <br>Regards, 
+                        <br><b>Anupriya Gola </b>
                                     `
                     }
                     console.log(sendEmailOptions)
