@@ -173,12 +173,13 @@ let signUpFunction = (req, res) => {
                                 let sendEmailOptions = {
                                     email: newUserObj.email,
                                     name: newUserObj.firstName + ' ' + newUserObj.lastName,
-                                    subject: 'Welcome to Soft Chat ',
-                                    html: `<b> Dear ${newUserObj.firstName}</b><br> Hope you are doing well. 
-                                    <br>Welcome to our Soft Chat a brand new chat application for our admirable Employees.<br>
+                                    subject: 'Welcome to ChatApp ',
+                                    html: `<b> Dear ${newUserObj.firstName}</b><br> Hope you are doing good. 
+                                    <br>Welcome to ChatApp a platform where everyone can stay in touch.Hope you enjoy and please feel free to contact if needed<br>
                                     
-                                    <b>CEO,Soft Chat <br>
-                                    Shahrukh Sayyed </b>
+                                    <b>Regards, <br>
+                                   Anupriya Gola </b>
+                                
                                     `
                                 }
 
