@@ -23,19 +23,19 @@ module.exports.setRouter = (app) => {
             "status": 200,
             "data": [
                 {
-                    "chatRoomId": "SkY8DNM47",
-                    "modifiedOn": "2018-07-22T16:56:51.076Z",
-                    "createdOn": "2018-07-22T16:56:51.000Z",
+                    "chatRoomId": "HJk8GAeDm",
+                    "modifiedOn": "2018-08-26T16:56:51.076Z",
+                    "createdOn": "2018-08-26T16:56:51.000Z",
                     "activeUsers": [
                         {
-                            "user": "Shahrukh Sayyed",
-                            "id": "r1_ddTtm7"
+                            "user": "Shruti Swami",
+                            "id": "SJp7ACJPX"
                         }
                     ],
                     "active": "No",
-                    "userId": "r1_ddTtm7",
-                    "userName": "Shahrukh Sayyed",
-                    "chatRoomLink": "http://localhost:4200/chatroom/join/SkY8DNM47",
+                    "userId": "SJp7ACJPX",
+                    "userName": "Shruti Swami",
+                    "chatRoomLink": "http://localhost:4200/chatroom/join/HJk8GAeDm",
                     "chatRoomTitle": "Test"
                 },
             ]
@@ -61,19 +61,19 @@ module.exports.setRouter = (app) => {
             "status": 200,
             "data": [
                 {
-                    "chatRoomId": "SkY8DNM47",
-                    "modifiedOn": "2018-07-22T16:56:51.076Z",
-                    "createdOn": "2018-07-22T16:56:51.000Z",
+                    "chatRoomId": "HJk8GAeDm",
+                    "modifiedOn": "2018-08-26T16:56:51.076Z",
+                    "createdOn": "2018-08-26T16:56:51.000Z",
                     "activeUsers": [
                         {
-                            "user": "Shahrukh Sayyed",
-                            "id": "r1_ddTtm7"
+                            "user": "Shruti Swami",
+                            "id": "SJp7ACJPX"
                         }
                     ],
                     "active": "No",
-                    "userId": "r1_ddTtm7",
-                    "userName": "Shahrukh Sayyed",
-                    "chatRoomLink": "http://localhost:4200/chatroom/join/SkY8DNM47",
+                    "userId": "SJp7ACJPX",
+                    "userName": "Shruti Swami",
+                    "chatRoomLink": "http://localhost:4200/chatroom/join/HJk8GAeDm",
                     "chatRoomTitle": "Test"
                 },
             ]
@@ -99,19 +99,19 @@ module.exports.setRouter = (app) => {
             "status": 200,
             "data": [
                 {
-                    "chatRoomId": "SkY8DNM47",
-                    "modifiedOn": "2018-07-22T16:56:51.076Z",
-                    "createdOn": "2018-07-22T16:56:51.000Z",
+                    "chatRoomId": "HJk8GAeDm",
+                    "modifiedOn": "2018-08-26T16:56:51.076Z",
+                    "createdOn": "2018-08-26T16:56:51.000Z",
                     "activeUsers": [
                         {
-                            "user": "Shahrukh Sayyed",
-                            "id": "r1_ddTtm7"
+                            "user": "Shruti Swami",
+                            "id": "SJp7ACJPX"
                         }
                     ],
                     "active": "No",
-                    "userId": "r1_ddTtm7",
-                    "userName": "Shahrukh Sayyed",
-                    "chatRoomLink": "http://localhost:4200/chatroom/join/SkY8DNM47",
+                    "userId": "SJp7ACJPX",
+                    "userName": "Shruti Swami",
+                    "chatRoomLink": "http://localhost:4200/chatroom/join/HJk8GAeDm",
                     "chatRoomTitle": "Test"
                 },
             ]
@@ -136,19 +136,19 @@ module.exports.setRouter = (app) => {
             "message": "Room Details Found",
             "status": 200,
             "data": {
-                "chatRoomId": "SkY8DNM47",
-                "modifiedOn": "2018-07-22T16:56:51.076Z",
-                "createdOn": "2018-07-22T16:56:51.000Z",
+                "chatRoomId": "HJk8GAeDm",
+                "modifiedOn": "2018-08-26T16:56:51.076Z",
+                "createdOn": "2018-08-26T16:56:51.000Z",
                 "activeUsers": [
                     {
-                        "user": "Shahrukh Sayyed",
-                        "id": "r1_ddTtm7"
+                        "user": "Shruti Swami",
+                        "id": "SJp7ACJPX"
                     }
                 ],
                 "active": "No",
-                "userId": "r1_ddTtm7",
-                "userName": "Shahrukh Sayyed",
-                "chatRoomLink": "http://localhost:4200/chatroom/join/SkY8DNM47",
+                "userId": "SJp7ACJPX",
+                "userName": "Shruti Swami",
+                "chatRoomLink": "http://localhost:4200/chatroom/join/HJk8GAeDm",
                 "chatRoomTitle": "Test"
             }
         }
@@ -200,20 +200,20 @@ module.exports.setRouter = (app) => {
             "status": 200,
             "data": {
                 "_id": "5b54b7534d4ab016ec8c7a4f",
-                "chatRoomId": "SkY8DNM47",
+                "chatRoomId": "HJk8GAeDm",
                 "__v": 0,
-                "modifiedOn": "2018-07-22T16:56:51.076Z",
-                "createdOn": "2018-07-22T16:56:51.000Z",
+                "modifiedOn": "2018-08-26T16:56:51.076Z",
+                "createdOn": "2018-08-26T16:56:51.000Z",
                 "activeUsers": [
                     {
-                        "id": "r1_ddTtm7",
-                        "user": "Shahrukh Sayyed"
+                        "id": "SJp7ACJPX",
+                        "user": "Shruti Swami"
                     }
                 ],
                 "active": "No",
-                "userId": "r1_ddTtm7",
-                "userName": "Shahrukh Sayyed",
-                "chatRoomLink": "http://localhost:4200/chatroom/join/SkY8DNM47",
+                "userId": "SJp7ACJPX",
+                "userName": "Shruti Swami",
+                "chatRoomLink": "http://localhost:4200/chatroom/join/HJk8GAeDm",
                 "chatRoomTitle": "Test Updated"
             }
         }

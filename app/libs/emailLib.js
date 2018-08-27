@@ -11,10 +11,10 @@ let sendEmail = (sendEmailOptions) => {
     }
 
     let transporter = nodemailer.createTransport({
-         service: 'Gmail', 
+        service: 'gmail', 
         //host: 'smtp.gmail.com;',
-        port: 465,
-        secure: true,
+        //port: 465,
+        //secure: true,
         auth: {
             user: account.user, 
             pass: account.pass 
@@ -28,6 +28,9 @@ let sendEmail = (sendEmailOptions) => {
         subject: sendEmailOptions.subject, // Subject line
         text: `Dear ${sendEmailOptions.name},
                Welcome to the ChatApp, a platform for everyone to be in touch with each other.
+
+               Regards,
+               Anupriya Gola
         `, // plain text body
         html: sendEmailOptions.html // html body
     };

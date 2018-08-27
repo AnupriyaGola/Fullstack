@@ -31,23 +31,34 @@ module.exports.setRouter = (app) => {
         "data": [
           {
             "chatId": "IELO6EVjx",
-            "modifiedOn": "2018-03-05T15:36:31.026Z",
-            "createdOn": "2018-03-05T15:36:31.025Z",
-            "message": "hello .. .. sourav",
-            "receiverId": "-E9zxTYA8",
-            "receiverName": "Rishabh Sengar",
-            "senderId": "-cA7DiYj5",
-            "senderName": "sourav das"
+            "modifiedOn": "2018-08-26T15:06:36.036Z",
+            "createdOn": "2018-08-26T15:06:36.036Z",
+            "message": "Hi Suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
+          },
+
+          {
+            "chatId": "IELO6EVjx",
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Whats going on suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
           },
           {
             "chatId": "ZcaxtEXPT",
-            "modifiedOn": "2018-03-05T15:36:39.548Z",
-            "createdOn": "2018-03-05T15:36:39.547Z",
-            "message": "hello rishabh .. .. .. ",
-            "receiverId": "-cA7DiYj5",
-            "receiverName": "sourav das",
-            "senderId": "-E9zxTYA8",
-            "senderName": "Rishabh Sengar"
+            "modifiedOn": "2018-03-05T15:36:59.548Z",
+            "createdOn": "2018-03-05T15:36:59.547Z",
+            "message": "Just covering few concepts ",
+            "receiverId": "SJp7ACJPX",
+            "receiverName": "Shruti Swami",
+            "senderId": "r1QHjh1v7",
+            "senderName": "Suraj Sinha"
           },
           .........................
         ]
@@ -73,25 +84,35 @@ module.exports.setRouter = (app) => {
         "message": "All Chats Listed",
         "status": 200,
         "data": [
+           {
+            "chatId": "IELO6EVjx",
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Hi Suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
+          },
           {
             "chatId": "IELO6EVjx",
-            "modifiedOn": "2018-03-05T15:36:31.026Z",
-            "createdOn": "2018-03-05T15:36:31.025Z",
-            "message": "hello .. .. sourav",
-            "receiverId": "-E9zxTYA8",
-            "receiverName": "Rishabh Sengar",
-            "senderId": "-cA7DiYj5",
-            "senderName": "sourav das"
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Whats going on suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
           },
           {
             "chatId": "ZcaxtEXPT",
-            "modifiedOn": "2018-03-05T15:36:39.548Z",
-            "createdOn": "2018-03-05T15:36:39.547Z",
-            "message": "hello rishabh .. .. .. ",
-            "receiverId": "-cA7DiYj5",
-            "receiverName": "sourav das",
-            "senderId": "-E9zxTYA8",
-            "senderName": "Rishabh Sengar"
+            "modifiedOn": "2018-03-05T15:36:59.548Z",
+            "createdOn": "2018-03-05T15:36:59.547Z",
+            "message": "Just covering few concepts ",
+            "receiverId": "SJp7ACJPX",
+            "receiverName": "Shruti Swami",
+            "senderId": "r1QHjh1v7",
+            "senderName": "Suraj Sinha"
           },
           .........................
         ]
@@ -126,23 +147,33 @@ module.exports.setRouter = (app) => {
         "data": [
           {
             "chatId": "IELO6EVjx",
-            "modifiedOn": "2018-03-05T15:36:31.026Z",
-            "createdOn": "2018-03-05T15:36:31.025Z",
-            "message": "hello .. .. sourav",
-            "receiverId": "-E9zxTYA8",
-            "receiverName": "Rishabh Sengar",
-            "senderId": "-cA7DiYj5",
-            "senderName": "sourav das"
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Hi Suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
           },
           {
+            "chatId": "IELO6EVjx",
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Whats going on suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
+          },
+           {
             "chatId": "ZcaxtEXPT",
-            "modifiedOn": "2018-03-05T15:36:39.548Z",
-            "createdOn": "2018-03-05T15:36:39.547Z",
-            "message": "hello rishabh .. .. .. ",
-            "receiverId": "-cA7DiYj5",
-            "receiverName": "sourav das",
-            "senderId": "-E9zxTYA8",
-            "senderName": "Rishabh Sengar"
+            "modifiedOn": "2018-03-05T15:36:59.548Z",
+            "createdOn": "2018-03-05T15:36:59.547Z",
+            "message": "Just covering few concepts ",
+            "receiverId": "SJp7ACJPX",
+            "receiverName": "Shruti Swami",
+            "senderId": "r1QHjh1v7",
+            "senderName": "Suraj Sinha"
           },
           .........................
         ]
@@ -195,27 +226,35 @@ module.exports.setRouter = (app) => {
         "message": "chat found and listed.",
         "status": 200,
         "data": [
-          {
+         {
             "chatId": "IELO6EVjx",
-            "modifiedOn": "2018-03-05T15:36:31.026Z",
-            "createdOn": "2018-03-05T15:36:31.025Z",
-            "message": "hello .. .. sourav",
-            "receiverId": "-E9zxTYA8",
-            "receiverName": "Rishabh Sengar",
-            "seen": false,
-            "senderId": "-cA7DiYj5",
-            "senderName": "sourav das"
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Hi Suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
           },
           {
+            "chatId": "IELO6EVjx",
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Whats going on suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
+          },
+           {
             "chatId": "ZcaxtEXPT",
-            "modifiedOn": "2018-03-05T15:36:39.548Z",
-            "createdOn": "2018-03-05T15:36:39.547Z",
-            "message": "hello rishabh .. .. .. ",
-            "receiverId": "-cA7DiYj5",
-            "receiverName": "sourav das",
-            "seen": false,
-            "senderId": "-E9zxTYA8",
-            "senderName": "Rishabh Sengar"
+            "modifiedOn": "2018-03-05T15:36:59.548Z",
+            "createdOn": "2018-03-05T15:36:59.547Z",
+            "message": "Just covering few concepts ",
+            "receiverId": "SJp7ACJPX",
+            "receiverName": "Shruti Swami",
+            "senderId": "r1QHjh1v7",
+            "senderName": "Suraj Sinha"
           },
           .........................
         ]
@@ -244,25 +283,35 @@ module.exports.setRouter = (app) => {
         "message": "All Chats Listed",
         "status": 200,
         "data": [
-          {
+           {
             "chatId": "IELO6EVjx",
-            "modifiedOn": "2018-03-05T15:36:31.026Z",
-            "createdOn": "2018-03-05T15:36:31.025Z",
-            "message": "hello .. .. sourav",
-            "receiverId": "-E9zxTYA8",
-            "receiverName": "Rishabh Sengar",
-            "senderId": "-cA7DiYj5",
-            "senderName": "sourav das"
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Hi Suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
           },
-          {
+            {
+            "chatId": "IELO6EVjx",
+            "modifiedOn": "2018-08-26T15:06:47.047Z",
+            "createdOn": "2018-08-26T15:06:47.047Z",
+            "message": "Whats going on suraj",
+            "receiverId": "r1QHjh1v7",
+            "receiverName": "Suraj Sinha",
+            "senderId": "SJp7ACJPX",
+            "senderName": "Shruti Swami"
+          },
+           {
             "chatId": "ZcaxtEXPT",
-            "modifiedOn": "2018-03-05T15:36:39.548Z",
-            "createdOn": "2018-03-05T15:36:39.547Z",
-            "message": "hello rishabh .. .. .. ",
-            "receiverId": "-cA7DiYj5",
-            "receiverName": "sourav das",
-            "senderId": "-E9zxTYA8",
-            "senderName": "Rishabh Sengar"
+            "modifiedOn": "2018-03-05T15:36:59.548Z",
+            "createdOn": "2018-03-05T15:36:59.547Z",
+            "message": "Just covering few concepts ",
+            "receiverId": "SJp7ACJPX",
+            "receiverName": "Shruti Swami",
+            "senderId": "r1QHjh1v7",
+            "senderName": "Suraj Sinha"
           },
           .........................
         ]

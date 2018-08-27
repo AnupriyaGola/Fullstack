@@ -31,13 +31,13 @@ module.exports.setRouter = (app) => {
             "data": {
                 "__v": 0,
                 "_id": "5b5729112d26c2154c81917e",
-                "createdOn": "2018-07-24T13:26:41.000Z",
+                "createdOn": "2018-08-26T10:49:21.769Z",
                 "recoveryPassword": "",
-                "mobileNumber": 9999999999,
-                "email": "sayyedsofttech313@gmail.com",
-                "lastName": "Sayyed",
-                "firstName": "Shahrukh ",
-                "userId": "HktzYiNVm"
+                "mobileNumber": 9845631245,
+                "email": "shruti123swami@gmail.com",
+                "lastName": "Swami",
+                "firstName": "Shruti ",
+                "userId": "SJp7ACJPX"
             }
         }
     */
@@ -64,11 +64,11 @@ module.exports.setRouter = (app) => {
                 "authToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RpZCI6InJKY05IczRObSIsImlhdCI6MTUzMjQzNzgxMDM5MCwiZXhwIjoxNTMyNTI0MjEwLCJzdWIiOiJhdXRoVG9rZW4iLCJpc3MiOiJlZENoYXQiLCJkYXRhIjp7InJlY292ZXJ5UGFzc3dvcmQiOiIiLCJtb2JpbGVOdW1iZXIiOjk5OTk5OTk5OTksImVtYWlsIjoic2F5eWVkc29mdHRlY2gzMTNAZ21haWwuY29tIiwibGFzdE5hbWUiOiJTYXl5ZWQiLCJmaXJzdE5hbWUiOiJTaGFocnVraCIsInVzZXJJZCI6InIxX2RkVHRtNyJ9fQ.vlSZzs3TAVrJXCyiblLjq7YETsblr0Kv7y_fbz_1iv8",
                 "userDetails": {
                     "recoveryPassword": "",
-                    "mobileNumber": 9999999999,
-                    "email": "sayyedsofttech313@gmail.com",
-                    "lastName": "Sayyed",
-                    "firstName": "Shahrukh",
-                    "userId": "r1_ddTtm7"
+                    "mobileNumber": 9845631245,
+                    "email": "shruti123swami@gmail.com",
+                    "lastName": "Swami",
+                    "firstName": "Shruti",
+                    "userId": "SJp7ACJPX"
                 }
             }
         }
@@ -213,16 +213,16 @@ module.exports.setRouter = (app) => {
             "message": "Deleted the user successfully",
             "status": 200,
             "data": {
-                "_id": "5b4c4870c9f75510a0e585f7",
+                "_id": "4b4c15352806039e585f7",
                 "__v": 0,
-                "createdOn": "2018-07-16T07:25:36.000Z",
-                "recoveryPassword": "B12N8iEV7",
-                "mobileNumber": 9999999999,
-                "email": "sayyedsofttech313@gmail.com",
+                "createdOn": "2018-08-26T11:43:12.769Z",
+                "recoveryPassword": "HJvV3xgwm",
+                "mobileNumber": 7745631245,
+                "email": "sheetal_joshi@gmail.com",
                 "password": "$2a$10$DJ.8pXJJyb36Vjg2B4bZR.89o5u0AW8nX1pgpUBmsk4J0S5kD3ltG",
-                "lastName": "Sayyed",
-                "firstName": "Shahrukh ",
-                "userId": "r1_ddTtm7"
+                "lastName": "Joshi",
+                "firstName": "Sheetal ",
+                "userId": "rkGljnyDm"
             }
         }
     */
@@ -243,24 +243,24 @@ module.exports.setRouter = (app) => {
             "status": 200,
             "data": [
                 {
-                    "createdOn": "2018-07-16T07:25:36.000Z",
+                    "createdOn": "2018-08-26T07:25:36.000Z",
                     "recoveryPassword": "",
-                    "mobileNumber": 9999999999,
-                    "email": "sayyedsofttech313@gmail.com",
+                    "mobileNumber": 7845961232,
+                    "email": "suraj_sinha@gmail.com",
                     "password": "$2a$10$cCg7OMGPywbw4Bq9CtwntOG0CivCXqPDh0mfnUDhu2kV/g5a3DIL.",
-                    "lastName": "Sayyed",
-                    "firstName": "Shahrukh",
-                    "userId": "r1_ddTtm7"
+                    "lastName": "Sinha",
+                    "firstName": "Suraj",
+                    "userId": "r1QHjh1v7"
                 },
                 {
-                    "createdOn": "2018-07-16T07:39:23.000Z",
+                    "createdOn": "2018-08-26T07:39:23.000Z",
                     "recoveryPassword": "",
-                    "mobileNumber": 9999999999,
-                    "email": "sayyedshahrukh@sggs.ac.in",
+                    "mobileNumber": 9845631245,
+                    "email": "shruti123swami@gmail.com",
                     "password": "$2a$10$LN0Fz75lipG1w.KpUlVl9e.S64bYPcjS7oK.wJRh/V.NerfJ6b4Am",
-                    "lastName": "Sayyed",
-                    "firstName": "Ahtesham",
-                    "userId": "HymnjTFXQ"
+                    "lastName": "Swami",
+                    "firstName": "Shruti",
+                    "userId": "SJp7ACJPX"
                 }
             ]
         }
@@ -284,13 +284,13 @@ module.exports.setRouter = (app) => {
             "message": "User Details Found",
             "status": 200,
             "data": {
-                "createdOn": "2018-07-16T07:25:36.000Z",
+                "createdOn": "2018-08-26T10:49:21.769Z",
                 "recoveryPassword": "",
-                "mobileNumber": 9999999999,
-                "email": "sayyedsofttech313@gmail.com",
-                "lastName": "Sayyed",
-                "firstName": "Shahrukh",
-                "userId": "r1_ddTtm7"
+                "mobileNumber": 9845631245,
+                "email": "shruti123swami@gmail.com",
+                "lastName": "Swami",
+                "firstName": "Shruti",
+                "userId": "SJp7ACJPX"
             }
         }
     */
