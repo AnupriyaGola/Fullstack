@@ -457,16 +457,17 @@ let resetPasswordFunction = (req, res) => {
     
                     let sendEmailOptions = {
                         email: userDetails.email,
-                        subject: 'Reset Password for Soft Chat ',
+                        subject: 'Reset Password for ChatApp ',
                         html: `<h4> Hi ${userDetails.firstName}</h4>
                             <p>
-                                We got a request to reset your Soft Chat password associated with this ${req.body.email} Email. <br>
-                                <br>We have successfully reset your password. Please use following password as a recovery password while resetting the Password <br>
+                                As per your request for resetting password associated with this ${req.body.email} Email. <br>
+                                <br>We have successfully reset your password. Please use following password as a recovery password. <br>
                                 <br> Recovery Password : ${options.recoveryPassword} 
                             </p>
     
-                            CEO,Soft Chat
-                            <br><b>Shahrukh Sayyed </b>
+                            Regards,
+                            <br><b>Anupriya Gola </b>
+                            <br><b>ChatApp </b>
                                         `
                     }
     
@@ -573,6 +574,7 @@ let updatePasswordFunction = (req, res) => {
                         <h3> Thanks for using ChatApp </h3>
                         <br>Regards,
                         <br><b>Anupriya Gola </b>
+                        <br><b>ChatApp </b>
                                     `
                     }
 
@@ -708,6 +710,7 @@ let changePasswordFunction = (req, res) => {
                         <h3> Thanks for using ChatApp </h3>
                         <br>Regards, 
                         <br><b>Anupriya Gola </b>
+                        <br><b>ChatApp </b>
                                     `
                     }
                     console.log(sendEmailOptions)
